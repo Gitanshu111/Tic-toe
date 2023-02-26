@@ -1,2 +1,2 @@
-# Tic-toe
+# Tic-tac-toe
 It's Game 
